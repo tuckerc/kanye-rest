@@ -1,2 +1,2 @@
-# kanye-rest
-Kanye West quote site
+# travelWishList
+Website for creating a destination wish list
